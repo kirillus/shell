@@ -1,5 +1,7 @@
 ### Install
 
+Based on * https://github.com/b-ryan/powerline-shellx *
+
 ```
 pip install powerline-shell
 ```
